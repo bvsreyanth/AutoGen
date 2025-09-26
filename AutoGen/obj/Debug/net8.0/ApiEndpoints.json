@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "OpenAIController",
+    "Method": "Ask",
+    "RelativePath": "OpenAI/ask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OpenAIRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
